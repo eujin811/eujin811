@@ -2,9 +2,8 @@
 
 I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
 
-<img alt="Html" src ="ttp://www.w3.org/2000/svg"/>
-
-<p>
+<div align=right>
+ <p>
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=iOS&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-0185FF?style=flat-square&logo=swift&logoColor=white" />
@@ -15,7 +14,8 @@ I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
   <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=JAVA&logoColor=white" />
   <img alt="vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white" />
 
-</p>
+ </p>
+</div>
   <!--
 **eujin811/eujin811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
