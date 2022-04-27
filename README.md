@@ -13,7 +13,7 @@ I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/java-F007396?style=flat-square&java&logoColor=white" />
-  <img alt="vim" src="https://img.shields.io/badge/vim-F019733?style=flat-square&vim&logoColor=white" />
+  <img alt="vim" src="https://img.shields.io/badge/vim-F019733?style=flat-square&Vim&logoColor=white" />
 
 </p>
   <!--
