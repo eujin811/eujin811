@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
-
+<!--stack-->
 <div align=right>
  <p>
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=iOS&logoColor=white" />
@@ -16,6 +15,11 @@ I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
 
  </p>
 </div>
+
+<!-- introduce -->
+I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
+
+
   <!--
 **eujin811/eujin811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
