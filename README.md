@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--stack-->
 <div align=right>
@@ -17,6 +16,8 @@
 </div>
 
 <!-- introduce -->
+### Hi there 👋
+
 I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
 
 
