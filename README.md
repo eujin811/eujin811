@@ -2,8 +2,12 @@
 
 I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
 
-<img alt="Html" src ="http://www.w3.org/2000/svg"/>
-<!--
+<img alt="Html" src ="ttp://www.w3.org/2000/svg"/>
+
+<p>
+  <img alt="iOS" src="http://www.w3.org/2000/svg" />
+</p>
+  <!--
 **eujin811/eujin811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
