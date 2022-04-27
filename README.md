@@ -1,8 +1,3 @@
-<!-- introduce -->
-### Hi there 👋
-
-I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
-
 <!--stack-->
 <div align=right>
  <p>
@@ -19,6 +14,10 @@ I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
  </p>
 </div>
 
+<!-- introduce -->
+### Hi there 👋
+
+I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
 
   <!--
 **eujin811/eujin811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
