@@ -5,7 +5,8 @@ I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
 <img alt="Html" src ="ttp://www.w3.org/2000/svg"/>
 
 <p>
-  <img alt="iOS" src="http://www.w3.org/2000/svg" />
+  <!-- <img alt="iOS" src="http://www.w3.org/2000/svg" /> -->
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
   <!--
 **eujin811/eujin811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
