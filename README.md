@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I’m Yujin, iOS Developer from 🇰🇷: Seoul, Korea.
+I’m Yujin, iOS Developer from 🇰🇷 Seoul, Korea.
 
+<img alt="Html" src ="http://www.w3.org/2000/svg"/>
 <!--
 **eujin811/eujin811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
